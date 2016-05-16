@@ -11,6 +11,8 @@ This repo will be divided into several folders & subfolders. Top level folders w
 
 We would be mainly working with IPython Notebooks, as they can be easily displayed within Github.
 
+We would also maintain an exhaustive [wiki](wiki) for all data science related tutorials, installation guides, writeups etc in one single place. Users are requested to contribute to it and make it awesome!
+
 ## LICENSE
 
 [MIT](LICENSE)
